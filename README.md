@@ -21,7 +21,7 @@ This is a Python script I created in 2022 while learning BeautifulSoup. Its purp
 2. **Clone the Repository**  
    Clone this repository to your local machine:  
    ```bash
-   git clone <url_of_this_repo>
+   git clone <https://github.com/bacchilega/qBittorrent-plugins-scraper/>
    ```
 
 3. **Run the Script**  
